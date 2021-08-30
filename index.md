@@ -79,19 +79,19 @@ I work in company specialized in on-board electronic systems design with high ad
 Currently developing firmware for micro-controller chips and component drivers for ECUs dedicated to automotive products.
 <BR />
 SeaSideTech designs automotive safety systems such as AirBag computers, or pyrotechnic triggers for electric vehicle traction batteries.
-**Website** http://www.seasidetech.net/
+<strong>Website</strong> http://www.seasidetech.net/
 <BR />
-**Standards** ISO 26262
+<strong>Standards</strong> ISO 26262
 <BR />
-**Technology** DoIP ISO-14229-5, TCP/IP, SPI, I2C
+<strong>Technology</strong> DoIP ISO-14229-5, TCP/IP, SPI, I2C
 <BR />
-**OS** FreeRTOS, Baremetal
+<strong>OS</strong> FreeRTOS, Baremetal
 <BR />
-**Language** C
+<strong>Language</strong> C
 <BR />
-**Targets** Microchip PIC, Infineon Tricore AURIX
+<strong>Targets</strong> Microchip PIC, Infineon Tricore AURIX
 <BR />
-**Tools** MPLAB Harmony V3, Tricore Eclipse, iSystem
+<strong>Tools</strong> MPLAB Harmony V3, Tricore Eclipse, iSystem
 </td></tr>
 
 </tbody></table>
@@ -122,17 +122,17 @@ I used to work on a therapy mattress project which required a ECU to drive motor
 to manage airflow for pulmonary care mattress functions and to display various measurements on a TFT.
 <BR />
 I started working on this project during the COVID-19 crisis, right after waking up in a Hill-rom bed myself. I decided to move to Brittany specifically for this position. It was a very rewarding experience and an exceptional envrionment during peculiar circumstances.
-**Website** http://www.hill-rom.com/international
+<strong>Website</strong> http://www.hill-rom.com/international
 <BR />
-**Training** IEC-62304
+<strong>Training</strong> IEC-62304
 <BR />
-**OS** FreeRTOS
+<strong>OS</strong> FreeRTOS
 <BR />
-**Language** C
+<strong>Language</strong> C
 <BR />
-**Targets** ARM Cortex-M, TM4C
+<strong>Targets</strong> ARM Cortex-M, TM4C
 <BR />
-**Tools** ARM Keil, IBM Doors
+<strong>Tools</strong> ARM Keil, IBM Doors
 </td></tr>
 
 </tbody></table>
@@ -161,19 +161,19 @@ Magneti Marelli is an Italian manufacturer of components for the automotive indu
 I have worked on a dashboard project for PSA then parallel display cluster projects for FCA.
 I started out as a software integrator then switched to feature development into the communications layer: Network and Diagnosis.
 <BR />
-**Website** https://www.marelli.com/
+<strong>Website</strong> https://www.marelli.com/
 <BR />  
-**Training** ISO-26262:2011
+<strong>Training</strong> ISO-26262:2011
 <BR />
-**Technology** CAN (ISO-11898), UDS (ISO-14229-3), LVDS
+<strong>Technology</strong> CAN (ISO-11898), UDS (ISO-14229-3), LVDS
 <BR />
-**OS** OSEK/VDK, Integrity, Linux
+<strong>OS</strong> OSEK/VDK, Integrity, Linux
 <BR />
-**Language** C, XML
+<strong>Language</strong> C, XML
 <BR />
-**Targets** Renesas
+<strong>Targets</strong> Renesas
 <BR />
-**Tools** Vector: CANoe, CANdela, CANalyzer, IBM Doors
+<strong>Tools</strong> Vector: CANoe, CANdela, CANalyzer, IBM Doors
 </td></tr>
 
 </tbody></table>
@@ -208,11 +208,11 @@ The project I did revolves around the configuration and execution of [RTOS Tramp
 <BR />
 <strong>Links</strong> https://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
 <BR />
-**Language** RISCV assembly, C, Verilog, some Scala
+<strong>Language</strong> RISCV assembly, C, Verilog, some Scala
 <BR />
-**Targets** Zedboard: Zynq + ARM Cortex-A
+<strong>Targets</strong> Zedboard: Zynq + ARM Cortex-A
 <BR />
-**Tools** Xilinx Vivado, Xilinx SDK
+<strong>Tools</strong> Xilinx Vivado, Xilinx SDK
 </td></tr>
 
 </tbody></table>
@@ -237,11 +237,11 @@ My first internship aborad was with CAIRN team in IRISA, which focuses on High P
 My final year's project was about an FPGA Implementation of Real-Time Chaos-based secure
 Encryption/Decryption Communication Systems. This required diving into symmetric cryptography based on DES and it allowed to have a hands on experience with FPGA.
 <BR />
-**Language** VHDL
+<strong>Language</strong> VHDL
 <BR />
-**Targets** Zynq-7030
+<strong>Targets</strong> Zynq-7030
 <BR />
-**Tools** Xilinx Vivado, Xilinx ISE, Modelsim
+<strong>Tools</strong> Xilinx Vivado, Xilinx ISE, Modelsim
 </td></tr>
 
 </tbody></table>
