@@ -80,8 +80,8 @@ Brittany; France
 I work in company specialized in on-board electronic systems design with high added value in "safety system".
 Currently developing firmware for micro-controller chips and component drivers for ECUs dedicated to automotive products.
 <BR />
-<BR />
 SeaSideTech designs automotive safety systems such as AirBag computers, or pyrotechnic triggers for electric vehicle traction batteries.
+<BR />
 <BR />
 <strong>Website</strong> http://www.seasidetech.net/
 <BR />
