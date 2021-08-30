@@ -179,6 +179,7 @@ I started out as a software integrator then switched to feature development into
 </tbody></table>
 <!--- --------------------------------------------------------------------- -->
 ## Academics and internships
+
 Fun fact: I used to contemplate doing research and working in Academia during scool.
 Which is why my most noteworthy internships were in labs.
 There has been a change of plans, but you never know what the future might bring!
