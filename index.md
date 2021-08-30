@@ -205,7 +205,8 @@ LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked
 <BR />
 The project I did revolves around the configuration and execution of [RTOS Trampoline](https://github.com/TrampolineRTOS/trampoline) on a ["RISCV"](https://github.com/riscv)
 ["platform"](https://github.com/ucb-bar/fpga-zynq).
-**Links** https://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
+<BR />
+<strong>Links</strong> https://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
 <BR />
 **Language** RISCV assembly, C, Verilog, some Scala
 <BR />
