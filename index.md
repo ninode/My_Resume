@@ -69,6 +69,8 @@ Automotive: Embedded Software Developer
 <tr><td>organization</td><td>
 SeasideTech
 </td></tr>
+  
+  
 
 <tr><td>location</td><td>
 Brittany; France
@@ -79,6 +81,7 @@ I work in company specialized in on-board electronic systems design with high ad
 Currently developing firmware for micro-controller chips and component drivers for ECUs dedicated to automotive products.
 <BR />
 SeaSideTech designs automotive safety systems such as AirBag computers, or pyrotechnic triggers for electric vehicle traction batteries.
+<BR />
 <strong>Website</strong> http://www.seasidetech.net/
 <BR />
 <strong>Standards</strong> ISO 26262
@@ -122,6 +125,7 @@ I used to work on a therapy mattress project which required a ECU to drive motor
 to manage airflow for pulmonary care mattress functions and to display various measurements on a TFT.
 <BR />
 I started working on this project during the COVID-19 crisis, right after waking up in a Hill-rom bed myself. I decided to move to Brittany specifically for this position. It was a very rewarding experience and an exceptional envrionment during peculiar circumstances.
+<BR />
 <strong>Website</strong> http://www.hill-rom.com/international
 <BR />
 <strong>Training</strong> IEC-62304
@@ -203,11 +207,8 @@ Nantes; France
 <tr><td colspan = 2>
 LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked to CNRS and INRIA, conducts research on software, robotics, data and control and probably other fields which my "hyppocampus" cannot process (_reference to totem animal_).
 <BR />
-The project I did revolves around the configuration and execution of [RTOS Trampoline](https://github.com/TrampolineRTOS/trampoline) on a ["RISCV"](https://github.com/riscv)
-["platform"](https://github.com/ucb-bar/fpga-zynq)
-  <BR />
-  http://github.com - automatic!
-[GitHub](http://github.com)
+The project I did revolves around the configuration and execution of [RTOS Trampoline] (https://github.com/TrampolineRTOS/trampoline) on a [RISCV] (https://github.com/riscv)
+[platform] (https://github.com/ucb-bar/fpga-zynq)
 <BR />
 <strong>Links</strong> https://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
 <BR />
@@ -266,7 +267,7 @@ cat
 </td></tr>
   
 <tr><td>beliefs</td><td>
-[ETHEREUM](https://github.com/ethereum)
+[ETHEREUM] (https://github.com/ethereum)
 </td></tr>
 
 </tbody></table>
