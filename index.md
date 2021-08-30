@@ -203,8 +203,8 @@ Nantes; France
 <tr><td colspan = 2>
 LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked to CNRS and INRIA, conducts research on software, robotics, data and control and probably other fields which my "hyppocampus" cannot process (_reference to totem animal_).
 <BR />
-The project I did revolves around the configuration and execution of [RTOS Trampoline](https://github.com/TrampolineRTOS/trampoline) on a [RISCV](https://github.com/riscv)
-[platform](https://github.com/ucb-bar/fpga-zynq).
+The project I did revolves around the configuration and execution of [RTOS Trampoline](https://github.com/TrampolineRTOS/trampoline) on a ["RISCV"](https://github.com/riscv)
+["platform"](https://github.com/ucb-bar/fpga-zynq).
 **Links** https://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
 <BR />
 **Language** RISCV assembly, C, Verilog, some Scala
