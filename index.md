@@ -82,10 +82,15 @@ SeaSideTech designs automotive safety systems such as AirBag computers, or pyrot
 **Website** http://www.seasidetech.net/
 <BR />
 **Standards** ISO 26262
+<BR />
 **Technology** DoIP ISO-14229-5, TCP/IP, SPI, I2C
+<BR />
 **OS** FreeRTOS, Baremetal
+<BR />
 **Language** C
+<BR />
 **Targets** Microchip PIC, Infineon Tricore AURIX
+<BR />
 **Tools** MPLAB Harmony V3, Tricore Eclipse, iSystem
 </td></tr>
 
@@ -120,9 +125,13 @@ I started working on this project during the COVID-19 crisis, right after waking
 **Website** http://www.hill-rom.com/international
 <BR />
 **Training** IEC-62304
+<BR />
 **OS** FreeRTOS
+<BR />
 **Language** C
+<BR />
 **Targets** ARM Cortex-M, TM4C
+<BR />
 **Tools** ARM Keil, IBM Doors
 </td></tr>
 
@@ -155,10 +164,15 @@ I started out as a software integrator then switched to feature development into
 **Website** https://www.marelli.com/
 <BR />  
 **Training** ISO-26262:2011
+<BR />
 **Technology** CAN (ISO-11898), UDS (ISO-14229-3), LVDS
+<BR />
 **OS** OSEK/VDK, Integrity, Linux
+<BR />
 **Language** C, XML
+<BR />
 **Targets** Renesas
+<BR />
 **Tools** Vector: CANoe, CANdela, CANalyzer, IBM Doors
 </td></tr>
 
@@ -193,7 +207,9 @@ The project I did revolves around the configuration and execution of [RTOS Tramp
 **Links** https://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
 <BR />
 **Language** RISCV assembly, C, Verilog, some Scala
+<BR />
 **Targets** Zedboard: Zynq + ARM Cortex-A
+<BR />
 **Tools** Xilinx Vivado, Xilinx SDK
 </td></tr>
 
@@ -220,7 +236,9 @@ My final year's project was about an FPGA Implementation of Real-Time Chaos-base
 Encryption/Decryption Communication Systems. This required diving into symmetric cryptography based on DES and it allowed to have a hands on experience with FPGA.
 <BR />
 **Language** VHDL
+<BR />
 **Targets** Zynq-7030
+<BR />
 **Tools** Xilinx Vivado, Xilinx ISE, Modelsim
 </td></tr>
 
