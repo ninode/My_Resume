@@ -79,7 +79,7 @@ Brittany; France
 <tr><td colspan = 2>
 I work in company specialized in on-board electronic systems design with high added value in "safety system".
 Currently developing firmware for micro-controller chips and component drivers for ECUs dedicated to automotive products.
-  
+<BR />
 <BR />
 SeaSideTech designs automotive safety systems such as AirBag computers, or pyrotechnic triggers for electric vehicle traction batteries.
 <BR />
@@ -126,7 +126,7 @@ I used to work on a therapy mattress project which required a ECU to drive motor
 to manage airflow for pulmonary care mattress functions and to display various measurements on a TFT.
 <BR />
 I started working on this project during the COVID-19 crisis, right after waking up in a Hill-rom bed myself. I decided to move to Brittany specifically for this position. It was a very rewarding experience and an exceptional envrionment during peculiar circumstances.
-  
+<BR />
 <BR />
 <strong>Website</strong> http://www.hill-rom.com/international
 <BR />
@@ -166,7 +166,7 @@ Vienne; France
 Magneti Marelli is an Italian manufacturer of components for the automotive industry. 
 I have worked on a dashboard project for PSA then parallel display cluster projects for FCA.
 I started out as a software integrator then switched to feature development into the communications layer: Network and Diagnosis.
-  
+<BR /> 
 <BR />
 <strong>Website</strong> https://www.marelli.com/
 <BR />  
@@ -211,7 +211,7 @@ Nantes; France
 LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked to CNRS and INRIA, conducts research on software, robotics, data and control and probably other fields which my "hyppocampus" cannot process (_reference to totem animal_).
 <BR />
 The project I did revolves around the configuration and execution of [RTOS Trampoline](http://github.com/TrampolineRTOS/trampoline) on a <a href="https://github.com/riscv">RISCV</a> <a href="https://github.com/ucb-bar/fpga-zynq">platform</a>
-  
+<BR /> 
 <BR />
 <strong>Links</strong> http://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
 <BR />
@@ -243,7 +243,7 @@ My first internship aborad was with CAIRN team in IRISA, which focuses on High P
 <BR />
 My final year's project was about an FPGA Implementation of Real-Time Chaos-based secure
 Encryption/Decryption Communication Systems. This required diving into symmetric cryptography based on DES and it allowed to have a hands on experience with FPGA.
-  
+<BR />  
 <BR />
 <strong>Language</strong> VHDL
 <BR />
