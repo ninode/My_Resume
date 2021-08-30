@@ -1,37 +1,249 @@
-## Welcome to GitHub Pages
+## Under Construction
 
-You can use the [editor on GitHub](https://github.com/ninode/Nihad_Boulaamail_CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table border=1><tbody>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<tr><td rowspan=10 width=240>
+<IMG SRC=pics/myself.jpg>
+</td></tr>
 
-### Markdown
+<tr><td width="180">Name</td><td>
+Nihad Boulaamail
+</td></tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<tr><td>Contact</td><td>
+nihadboulamail@gmail.com
+</td></tr>
 
-```markdown
-Syntax highlighted code block
+<tr><td>Born</td><td>
+09 May 1993, Morocco
+</td></tr>
 
-# Header 1
-## Header 2
-### Header 3
+<tr><td>Home</td><td>
+Northwest of France
+</td></tr>
 
-- Bulleted
-- List
+<tr><td>Availability</td><td>
+Employed
+</td></tr>
 
-1. Numbered
-2. List
+<tr><td>Highest education</td><td>
+Ecole Centrale - Nantes, Real Time Embedded Systems
+<BR />
+National School of Applied Sciences - Morocco, Computer Science
+</td></tr>
 
-**Bold** and _Italic_ and `Code` text
+<tr><td>Keywords</td><td>
+C, embedded, real-time, resource-constrained, electronics,
+micro-controller, RTOS, Cortex-M, Microchip PIC,
+make, git, doxygen, industrial, automotive,
+CAN (ISO-11898), UDS (ISO-14229-3), AUTOSAR, TCP/IP,
+(DoIP ISO-14229-5). ISO-26262, IEC-62304,
+Vector, Xilinx
+</td></tr>
 
-[Link](url) and ![Image](src)
-```
+<tr><td>File location</td><td>
+https://www.github.com/ninode/Nihad_Boulaamail_CV/index.md
+</td></tr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</tbody></table>
 
-### Jekyll Themes
+<!--- --------------------------------------------------------------------- -->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ninode/Nihad_Boulaamail_CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Profile: Between Software and Hardware
 
-### Support or Contact
+I am an embedded software engineer with experience in automotive and medical industries.
+My role is firmware and driver development. I can make a good addition to a team in developing features in C, implementing drivers or making SRS.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!--- --------------------------------------------------------------------- -->
+
+<table border=1><tbody>
+
+<tr><td width="180">period</td><td>
+2021 - present
+</td></tr>
+
+<tr><td>function</td><td>
+Automotive: Embedded Software Developer 
+</td></tr>
+
+<tr><td>organization</td><td>
+SeasideTech
+</td></tr>
+
+<tr><td>location</td><td>
+Brittany; France
+</td></tr>
+
+<tr><td colspan = 2>
+I work in company specialized in on-board electronic systems design with high added value in "safety system".
+Currently developing firmware for micro-controller chips and component drivers for ECUs dedicated to automotive products.
+<BR />
+SeaSideTech designs automotive safety systems such as AirBag computers, or pyrotechnic triggers for electric vehicle traction batteries.
+**Website** http://www.seasidetech.net/
+<BR />
+**Standards** ISO 26262
+**Technology** DoIP ISO-14229-5, TCP/IP, SPI, I2C
+**OS** FreeRTOS, Baremetal
+**Language** C
+**Targets** Microchip PIC, Infineon Tricore AURIX
+**Tools** MPLAB Harmony V3, Tricore Eclipse, iSystem
+</td></tr>
+
+</tbody></table>
+
+<!--- --------------------------------------------------------------------- -->
+
+<table border=1><tbody>
+
+<tr><td width="180">period</td><td>
+2020 - 2021
+</td></tr>
+
+<tr><td>function</td><td>
+Medical: Embedded Software Developer 
+</td></tr>
+
+<tr><td>organization</td><td>
+Hill-rom
+</td></tr>
+
+<tr><td>location</td><td>
+Brittany; France
+</td></tr>
+
+<tr><td colspan = 2>
+Hill-rom creates a wide range of connected medical equipment from hospital beds to ICU peripherals.
+I used to work on a therapy mattress project which required a ECU to drive motors and sensors in order
+to manage airflow for pulmonary care mattress functions and to display various measurements on a TFT.
+<BR />
+I started working on this project during the COVID-19 crisis, right after waking up in a Hill-rom bed myself. I decided to move to Brittany specifically for this position. It was a very rewarding experience and an exceptional envrionment during peculiar circumstances.
+**Website** http://www.hill-rom.com/international
+<BR />
+**Training** IEC-62304
+**OS** FreeRTOS
+**Language** C
+**Targets** ARM Cortex-M, TM4C
+**Tools** ARM Keil, IBM Doors
+</td></tr>
+
+</tbody></table>
+
+<!--- --------------------------------------------------------------------- -->
+<table border=1><tbody>
+
+<tr><td width="180">period</td><td>
+2017 - 2020
+</td></tr>
+
+<tr><td>function</td><td>
+Automotive: Embedded Software Integrator/Developer 
+</td></tr>
+
+<tr><td>organization</td><td>
+Magneti Marelli
+</td></tr>
+
+<tr><td>location</td><td>
+Vienne; France
+</td></tr>
+
+<tr><td colspan = 2>
+Magneti Marelli is an Italian manufacturer of components for the automotive industry. 
+I have worked on a dashboard project for PSA then parallel display cluster projects for FCA.
+I started out as a software integrator then switched to feature development into the communications layer: Network and Diagnosis.
+<BR />
+**Website** https://www.marelli.com/
+<BR />  
+**Training** ISO-26262:2011
+**Technology** CAN (ISO-11898), UDS (ISO-14229-3), LVDS
+**OS** OSEK/VDK, Integrity, Linux
+**Language** C, XML
+**Targets** Renesas
+**Tools** Vector: CANoe, CANdela, CANalyzer, IBM Doors
+</td></tr>
+
+</tbody></table>
+<!--- --------------------------------------------------------------------- -->
+## Academics and internships
+Fun fact: I used to contemplate doing research and working in Academia during scool.
+Which is why my most noteworthy internships were in labs.
+There has been a change of plans, but you never know what the future might bring!
+
+Below is a recap of those experiences:
+<!--- --------------------------------------------------------------------- -->
+<table border=1><tbody>
+
+<tr><td width="180">period</td><td>
+2017
+</td></tr>
+
+<tr><td>organization</td><td>
+LS2N Laboratory of Digital Sciences
+</td></tr>
+
+<tr><td>location</td><td>
+Nantes; France
+</td></tr>
+
+<tr><td colspan = 2>
+LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked to CNRS and INRIA, conducts research on software, robotics, data and control and probably other fields which my "hyppocampus" cannot process (_reference to totem animal_).
+<BR />
+The project I did revolves around the configuration and execution of [RTOS Trampoline](https://github.com/TrampolineRTOS/trampoline) on a [RISCV](https://github.com/riscv)
+[platform](https://github.com/ucb-bar/fpga-zynq).
+**Links** https://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
+<BR />
+**Language** RISCV assembly, C, Verilog, some Scala
+**Targets** Zedboard: Zynq + ARM Cortex-A
+**Tools** Xilinx Vivado, Xilinx SDK
+</td></tr>
+
+</tbody></table>
+<!--- --------------------------------------------------------------------- -->
+<table border=1><tbody>
+
+<tr><td width="180">period</td><td>
+2016
+</td></tr>
+
+<tr><td>organization</td><td>
+IRISA Research Institute of Computing and Random Systems
+</td></tr>
+
+<tr><td>location</td><td>
+Lannion; France
+</td></tr>
+
+<tr><td colspan = 2>
+My first internship aborad was with CAIRN team in IRISA, which focuses on High Performance computing architectures (CPU, GPUs), embedded hardware platforms, real-time systems and design tools. The research facility is located on the ENSSAT campus in the absolute center of the ideal breton town.
+<BR />
+My final year's project was about an FPGA Implementation of Real-Time Chaos-based secure
+Encryption/Decryption Communication Systems. This required diving into symmetric cryptography based on DES and it allowed to have a hands on experience with FPGA.
+<BR />
+**Language** VHDL
+**Targets** Zynq-7030
+**Tools** Xilinx Vivado, Xilinx ISE, Modelsim
+</td></tr>
+
+</tbody></table>
+<!--- --------------------------------------------------------------------- -->
+# Miscellaneous
+
+<table border=1; width="100%"><tbody>
+
+<tr><td width="180">languages</td><td>
+French - DALF C1, English - TOEIC 930, Arabic (native)
+</td></tr>
+
+<tr><td>hobbies</td><td>
+Change every couple of months.
+</td></tr>
+
+<tr><td>family</td><td>
+cat
+</td></tr>
+  
+<tr><td>beliefs</td><td>
+[ETHEREUM](https://github.com/ethereum)
+</td></tr>
+
+</tbody></table>
