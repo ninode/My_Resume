@@ -185,7 +185,9 @@ I started out as a software integrator then switched to feature development into
 
 </tbody></table>
 <!--- --------------------------------------------------------------------- -->
+
 ## Academics and internships
+
 
 Fun fact: I used to contemplate doing research and working in Academia during scool.
 Which is why my most noteworthy internships were in labs.
@@ -210,7 +212,7 @@ Nantes; France
 <tr><td colspan = 2>
 LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked to CNRS and INRIA, conducts research on software, robotics, data and control and probably other fields which my "hyppocampus" cannot process (_reference to totem animal_).
 <BR />
-The project I did revolves around the configuration and execution of [RTOS Trampoline](http://github.com/TrampolineRTOS/trampoline) on a <a href="https://github.com/riscv">RISCV</a> <a href="https://github.com/ucb-bar/fpga-zynq">platform</a>
+The project I did revolves around the configuration and execution of <a href="https://github.com/TrampolineRTOS/trampoline">RTOS Trampoline</a> on a <a href="https://github.com/riscv">RISCV</a> <a href="https://github.com/ucb-bar/fpga-zynq">platform</a>
 <BR /> 
 <BR />
 <strong>Links</strong> http://github.com/riscv, https://github.com/TrampolineRTOS/trampoline, https://github.com/ucb-bar/fpga-zynq
