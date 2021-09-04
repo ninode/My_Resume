@@ -14,10 +14,6 @@ Nihad Boulaamail
 nihadboulamail@gmail.com
 </td></tr>
 
-<tr><td>Born</td><td>
-09 May 1993, Morocco
-</td></tr>
-
 <tr><td>Home</td><td>
 Northwest of France
 </td></tr>
