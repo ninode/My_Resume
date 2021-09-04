@@ -73,7 +73,7 @@ Brittany; France
 </td></tr>
 
 <tr><td colspan = 2>
-I work in company specialized in on-board electronic systems design with high added value in "safety system".
+I work in a company specialized in on-board electronic systems design with high added value in "safety system".
 Currently developing firmware for micro-controller chips and component drivers for ECUs dedicated to automotive products.
 <BR />
 SeaSideTech designs automotive safety systems such as AirBag computers, or pyrotechnic triggers for electric vehicle traction batteries.
@@ -206,7 +206,7 @@ Nantes; France
 </td></tr>
 
 <tr><td colspan = 2>
-LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked to CNRS and INRIA, conducts research on software, robotics, data and control and probably other fields which my "hyppocampus" cannot process (_reference to totem animal_).
+LS2N is formerly known as IRCCyn which is the research lab on ECN campus. Linked to CNRS and INRIA, conducts research on software, robotics, data and control and probably other fields which my "hyppocampus" cannot process (<i>reference to ECN's totem animal</i>).
 <BR />
 The project I did revolves around the configuration and execution of <a href="https://github.com/TrampolineRTOS/trampoline">RTOS Trampoline</a> on a <a href="https://github.com/riscv">RISCV</a> <a href="https://github.com/ucb-bar/fpga-zynq">platform</a>
 <BR /> 
