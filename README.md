@@ -261,17 +261,4 @@ Encryption/Decryption Communication Systems. This required diving into symmetric
 <tr><td width="180">languages</td><td>
 French - DALF C1, English - TOEIC 930, Arabic (native)
 </td></tr>
-
-<tr><td>hobbies</td><td>
-Change every couple of months.
-</td></tr>
-
-<tr><td>family</td><td>
-cat
-</td></tr>
-  
-<tr><td>beliefs</td><td>
-<a href="https://github.com/ethereum">ETHEREUM</a>
-</td></tr>
-
 </tbody></table>
